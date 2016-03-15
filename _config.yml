@@ -1,0 +1,14 @@
+layout_spectrum: 0.8178752
+typography_spectrum: 0.6694772
+color:
+  lightness: 0.9696459
+  brandStrength: 0.9308116
+  saturation: 0.7942665
+  rhythmicContrast: 0.5168065
+  brandColors:
+    - '#F0F1F2'
+    - '#1D270E'
+    - '#909089'
+    - '#5B6E4A'
+    - '#651F17'
+name: RisoEvent
